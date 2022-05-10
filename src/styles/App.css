@@ -1,0 +1,104 @@
+.App{
+  display: flex;
+}
+.left-div{
+  width:29%;
+  border-right:1px solid lightgray;
+}
+
+.top-div{
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  
+  /* border: 1px solid black; */
+}
+.search{
+  width:75%;
+  height: 35%;
+  background-color: rgb(236, 236, 236);
+  border: 1px solid lightgray;
+  margin-left: 10%;
+  display: flex;
+  align-items: center;
+}
+.search-image{
+  width: 20%;
+  display: flex;
+  align-items: center;
+  /* border: 1px solid black; */
+}
+.input-classs{
+  width: 100%;
+  overflow: hidden;
+}
+.search-image img{
+  height: 20px;
+  margin-left: 25%;
+}
+input{
+  /* text-align: center; */
+  background-color: rgb(236, 236, 236);
+  border: none;
+  outline: none;
+}
+.conversation-div{
+  width:86%;
+  height: 20%;
+  display: flex;
+  /* background-color: aqua; */
+  justify-content: space-between;
+}
+.conversation-div img{
+  height: 20px;
+}
+.chats{
+  margin-left:11%;
+}
+.chats span{
+  font-weight: 500;
+}
+.right-div{
+  width:80%;
+  height: 100%;
+}
+.show-contacts{
+  height:400px;
+  width:300px;
+  border: 2px solid rgb(3, 86, 119);
+  border-radius: 5px;
+  position: absolute;
+  margin-top: 8%;
+  margin-left: 23%;
+  transition-property: font-size;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  overflow: scroll;
+}
+.contact{
+  display: flex;
+  border-bottom: 1px solid darkgray;
+}
+.add-contacts{
+  cursor: pointer;
+}
+.second-add{
+  font-size: 23px;
+}
+.second-remove{
+  font-size: 23px;
+}
+.search-icon{
+  font-size: 18px;
+  margin-left: 12px;
+}
+
+
+
+
+
+
+
+

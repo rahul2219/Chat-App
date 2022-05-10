@@ -1,0 +1,55 @@
+.wallpaper{
+    height: 690px;
+    background-image:url("https://imgs.search.brave.com/3Wesg6JpTtzsM3O-YL2T37Nop_4IR9y0pI6fKGZCrDY/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/c2V0YXN3YWxsLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wOC9XaGF0c2Fw/cC1XYWxscGFwZXIt/MTE1LmpwZw");
+    background-position: center;
+    color: white;
+    background-size: contain;
+}
+.home{
+    color: gray;
+    display: flex;  
+    margin-top: 30%;
+    justify-content: center;
+}
+.messages{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.message{
+    width: 30%;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+}
+.message-div{
+    display: flex;
+    padding: 10px;
+}
+img{
+    margin-right: 10px;
+}
+.typing{
+    width:100%;
+}
+.my-messagediv{
+    /* background-color: white; */
+    display:flex;
+    height: 6%;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: 5px;
+}
+.my-message{
+    width:30%;
+    height: 95%;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    display: flex;
+    align-items: center;
+    margin-right: 7px;
+}
+.my-message span{
+    margin-left: 13px;
+}

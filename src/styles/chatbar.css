@@ -1,0 +1,18 @@
+.header{
+    height:50px;
+    width: 100%;
+    /* margin-top: 2.3%; */
+    background-color: rgb(71, 105, 114);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.profile{
+    margin-left: 1%;
+    display: flex;
+    align-items: center;
+}
+.add-icon{
+    height: 30px;
+}

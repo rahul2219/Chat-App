@@ -1,0 +1,81 @@
+[
+    {
+        "id":1,
+        "name":"Jerome Chapman",
+        "content":"Hello,Is it me you are looking good.",
+        "img":"https://imgs.search.brave.com/1-v-zJYUIXVLZEqSzybG9uoh5m0dWp8xprFWUtPyvsA/rs:fit:500:525:1/g:ce/aHR0cHM6Ly90ZWNo/b2xhLm5ldC93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOC8wNy9I/YW5kc29tZS1ib3kt/V2hhdHNhcHAtRFAt/MjIuanBn",
+        "read":"false",
+        "messages":["I missed you all these days.","Hello,Is it me you are looking good."],
+        "sentMessages":[]
+    },
+    {
+        "id":2,
+        "name":"Cynthia Zimmerman",
+        "content":"Tell me what you want to read",
+        "img":"https://imgs.search.brave.com/lIOHGVtzRDnfsBlYmp3EwT5ApCGq1G0MCS7yOuersGU/rs:fit:900:750:1/g:ce/aHR0cHM6Ly93d3cu/dGhlZmFtb3VzcGVv/cGxlLmNvbS9wcm9m/aWxlcy9pbWFnZXMv/Y3ludGhpYS1hZGRh/aS1yb2JpbnNvbi01/LmpwZw",
+        "read":"true",
+        "messages":["I'm looking forward for it.","Tell me what you want to read"],
+        "sentMessages":[]
+
+    },
+    {
+        "id":3,
+        "name":"Eugenia Wilkerson",
+        "content":"I want it that way!",
+        "img":"https://imgs.search.brave.com/2-BIMKH0_C_w2UKzbBsICwx8ElwTwswrQgxWhW5vhGk/rs:fit:600:600:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vdXJ0ZWNo/cGFydG5lci5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTcv/MDcvR2lybHMtUGhv/dG9zLmpwZz9yZXNp/emU9NjAwJTJDNjAw/JnNzbD0x",
+        "read":"true",
+        "messages":["I want it that way!"],
+        "sentMessages":[]
+    },
+    {
+        "id":4,
+        "name":"Hulda Hoffman",
+        "content":"Santa Baby",
+        "img":"https://imgs.search.brave.com/Bx29z1MFNzujveqp8r0oufjrA4isMwOD5qZ_msIBzmE/rs:fit:591:550:1/g:ce/aHR0cHM6Ly9kcC5w/cm9maWxlcGljcy5p/bi9wcm9maWxlX3Bp/Y3R1cmVzL2JveXMt/cHJvZmlsZS1waWNz/L2JveXMtcHJvZmls/ZS1waWNzLWRwLWZv/ci13aGF0c2FwcC1m/YWNlYm9vay0yMS5q/cGc",
+        "read":"true",
+        "messages":["Congrats","Santa Baby"],
+        "sentMessages":[]
+
+    },
+    {
+        "id":5,
+        "name":"Frank Vasquez",
+        "content":"Do you even lift,bro?",
+        "img":"https://imgs.search.brave.com/uhP9dzYClii5X5W9noiMZzd-hJ6lnggkZ4YwXd85QzQ/rs:fit:549:533:1/g:ce/aHR0cHM6Ly9zZ3Vy/dS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTcvMDYvZmFj/ZWJvb2tfcGhvdG9f/ZG93bmxvYWRfMTk0/NjM5MzU3MjMzNjgy/LmpwZw",
+        "read":"false",
+        "messages":["Do you even lift,bro?"],
+        "sentMessages":[]
+
+    },
+    {
+        "id":6,
+        "name":"Emily Rhodes",
+        "content":"How are you doing today?",
+        "img":"https://imgs.search.brave.com/fLMqIsysWca25SxcMEYf9hlcYqzvDkgnrdfMMsks024/rs:fit:477:471:1/g:ce/aHR0cHM6Ly93d3cu/d2hhdHNhcHBpbWFn/ZXMuaW4vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjAvMTIvU2Fk/LUdpcmxzLVdoYXRz/YXBwLURQLTQuanBn",
+        "read":"false",
+        "messages":["How are you doing today?"],
+        "sentMessages":[]
+
+    },
+    {
+        "id":7,
+        "name":"Frank rotwell",
+        "content":"I feel like I'm about to throw up :(",
+        "img":"https://imgs.search.brave.com/1-v-zJYUIXVLZEqSzybG9uoh5m0dWp8xprFWUtPyvsA/rs:fit:500:525:1/g:ce/aHR0cHM6Ly90ZWNo/b2xhLm5ldC93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOC8wNy9I/YW5kc29tZS1ib3kt/V2hhdHNhcHAtRFAt/MjIuanBn",
+        "read":"false",
+        "messages":["I feel like I'm about to throw up :("],
+        "sentMessages":[]
+
+    },
+    {
+        "id":8,
+        "name":"Lizzy",
+        "content":"All the best,take care",
+        "img":"https://imgs.search.brave.com/L_wGpgZQCRi0Z00YKt9BnD4EJ3iPCSjvNHJOIrCrP8c/rs:fit:1080:1200:1/g:ce/aHR0cDovL3d3dy5u/ZXdzc2hhcmUuaW4v/d3AtY29udGVudC91/cGxvYWRzLzIvQW5p/bWUtV2hhdHNBcHAt/RFAtZm9yLUdpcmxz/LTIxLmpwZw",
+        "read":"true",
+        "messages":["All the best,take care"],
+        "sentMessages":[]
+        
+
+    }
+]
